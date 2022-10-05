@@ -1,7 +1,11 @@
 # Veeam Repository Reporter
 Example application using the Veeam VBR API to query and report on Scaleout Backup Repository state information (capacity, free space, settings)
 
-Load up with Visual Studio or editor if your choice, build/run project.
+Clone or download repository, then open with terminal and run the below command in the project root
+
+> dotnet run
+
+Or load in your favorite IDE and run/debug from there
 
 ## Settings
 In appsettings.json, modify to your requirements
